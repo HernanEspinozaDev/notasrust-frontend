@@ -14,6 +14,11 @@ Una aplicación de notas moderna y rápida construida con **Vue 3**, **Tailwind 
 *   **Backend**: Rust (AWS Lambda)
 *   **Infraestructura**: Serverless
 
+## 🔗 Backend
+
+Puedes ver el código del backend en Rust aquí:
+👉 **[https://github.com/HernanEspinozaDev/notas_backend_rust](https://github.com/HernanEspinozaDev/notas_backend_rust)**
+
 ## ✨ Características
 
 *   ⚡ Carga ultra rápida
